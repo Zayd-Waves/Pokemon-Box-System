@@ -1,3 +1,3 @@
 # Pokemon Box System
 
-A Java program that models the functionality of the PC in the Pokemon video game series. 
+A Java program that models the functionality of the PC in the Pokemon video game series. Sort of like an offline version of Nintendo's Pokemon Bank application for 3DS. Somehow I thought I would find a lot more use out of it at the time ...
